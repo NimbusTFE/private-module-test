@@ -1,5 +1,5 @@
 module "ssh_key_data" {
-  source = "git@github.com:hashicorp-modules/ssh-keypair-data.git"
+  source = "github.com/hashicorp-modules/ssh-keypair-data"
 }
 
 output "private_key_pem" {
