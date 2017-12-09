@@ -1,3 +1,0 @@
-[submodule "ssh-keypair-data"]
-	path = ssh-keypair-data
-	url = https://github.com/hashicorp-modules/ssh-keypair-data
